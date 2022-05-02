@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "764747049453",
+    "project_id": "misgastos2-3474b",
+    "storage_bucket": "misgastos2-3474b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764747049453:android:eb0ac0d4025c2c96449fe4",
+        "android_client_info": {
+          "package_name": "com.watermelon.misgastos2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764747049453-f4t98pftk0kcs7c5gtobod6c7sjhakuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWazEKPBNF8dEgmNwiGMqwDMgqf2sie_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764747049453-f4t98pftk0kcs7c5gtobod6c7sjhakuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

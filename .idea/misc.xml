@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../kotlin/MisGastos2/app/src/main/res/drawable/ic_money_svgrepo_com.xml" value="0.2155" />
+        <entry key="../../kotlin/MisGastos2/app/src/main/res/drawable/splash_back.xml" value="0.2155" />
+        <entry key="../../kotlin/MisGastos2/app/src/main/res/layout/activity_listas.xml" value="0.3098958333333333" />
+        <entry key="../../kotlin/MisGastos2/app/src/main/res/layout/activity_main.xml" value="0.3098958333333333" />
+        <entry key="../../kotlin/MisGastos2/app/src/main/res/layout/activity_main2.xml" value="0.3098958333333333" />
+        <entry key="../../kotlin/MisGastos2/app/src/main/res/layout/alert_dialog.xml" value="0.3098958333333333" />
+        <entry key="../../kotlin/MisGastos2/app/src/main/res/layout/listas_holder.xml" value="0.3098958333333333" />
+        <entry key="../../kotlin/MisGastos2/app/src/main/res/layout/producto_view_holder.xml" value="0.3098958333333333" />
+        <entry key="../../kotlin/MisGastos2/app/src/main/res/layout/recyclerview_listas.xml" value="0.3098958333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
