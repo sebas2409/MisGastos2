@@ -64,7 +64,7 @@ class Listas : AppCompatActivity() {
                                 dialog.dismiss()
                             }
                         }else{
-                            Toast.makeText(this,"Por favor ingrese un nombre de usario", Toast.LENGTH_LONG).show()
+                            Toast.makeText(this,"Por favor ingrese el nombre de una lista", Toast.LENGTH_LONG).show()
                         }
                     }
                 .create().show()

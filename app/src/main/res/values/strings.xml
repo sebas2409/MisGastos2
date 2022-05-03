@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MisGastos2</string>
+    <string name="item">Item</string>
 </resources>
