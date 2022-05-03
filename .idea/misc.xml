@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../kotlin/MisGastos2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.242" />
+        <entry key="../../kotlin/MisGastos2/app/src/main/res/drawable/dollar_launcher_foreground.xml" value="0.242" />
+        <entry key="../../kotlin/MisGastos2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.242" />
         <entry key="../../kotlin/MisGastos2/app/src/main/res/drawable/ic_money_svgrepo_com.xml" value="0.2155" />
         <entry key="../../kotlin/MisGastos2/app/src/main/res/drawable/splash_back.xml" value="0.2155" />
         <entry key="../../kotlin/MisGastos2/app/src/main/res/layout/activity_listas.xml" value="0.3098958333333333" />
@@ -13,6 +16,8 @@
         <entry key="../../kotlin/MisGastos2/app/src/main/res/layout/producto_view_holder.xml" value="0.3098958333333333" />
         <entry key="../../kotlin/MisGastos2/app/src/main/res/layout/recyclerview_listas.xml" value="0.3098958333333333" />
         <entry key="../../kotlin/MisGastos2/app/src/main/res/menu/menu.xml" value="0.3098958333333333" />
+        <entry key="../../kotlin/MisGastos2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.242" />
+        <entry key="../../kotlin/MisGastos2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.242" />
       </map>
     </option>
   </component>
